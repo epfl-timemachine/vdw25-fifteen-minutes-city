@@ -1,0 +1,6 @@
+[submodule "15-Minute-Venice"]
+	path = 15-Minute-Venice
+	url = https://github.com/ccpfoye/15-Minute-Venice.git
+[submodule "napoleonic-cadaster-maps"]
+	path = napoleonic-cadaster-maps
+	url = https://github.com/epfl-timemachine/napoleonic-cadaster-maps.git
